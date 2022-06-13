@@ -10,9 +10,11 @@
 <body>
    {# nunjucks #}
    {% include 'header.njk' %}
-
-   {# static site generator configuration #}
-   {{ content | safe }}
+   
+   <main>
+      {# static site generator configuration #}
+      {{ content | safe }}
+   </main>
 
    {% include 'footer.njk' %}
 </body>
