@@ -5,6 +5,7 @@ author: yumi
 date: 2022-07-12T23:56:09.788Z
 tags:
   - post
+  - featured
 image: /assets/blog/2021_05_21_mei-totoro-ghibli-17877481.png
 imageAlt: Minecraft Chihiro skin from Spirited Away
 ---
